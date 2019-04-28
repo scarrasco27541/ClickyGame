@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "Quailman",
+    "image": "/images/quailman.jpg",
+	"clicked": false,
+    "powers": "Quail-like Powers"
+  },
+  {
+    "id": 2,
+    "name": "Superman",
+    "image": "/images/manofsteel.jpg",
+	"clicked": false,
+    "powers": "Freaking everything. He's too powerful"
+  },
+  {
+    "id": 3,
+    "name": "The Flash",
+    "image": "/images/flash.png",
+	"clicked": false,
+    "powers": "Superspeed and screwing up timelines"
+  },
+  {
+    "id": 4,
+    "name": "Batman",
+    "image": "/images/batman.gif",
+	"clicked": false,
+    "powers": "Money and Time"
+  },
+  {
+    "id": 5,
+    "name": "The Incredible Hulk",
+    "image": "/images/hulk.png",
+	"clicked": false,
+    "powers": "Uncontrollable anger issues."
+  },
+  {
+    "id": 6,
+    "name": "Penguin",
+    "image": "/images/penguin.png",
+	"clicked": false,
+    "powers": "One of Batman's enemies, but lord knows why Batman would want to arrest such a cute little bird..."
+  },
+  {
+    "id": 7,
+    "name": "Poison Ivy",
+    "image": "/images/umathurman.jpg",
+	"clicked": false,
+    "powers": "Revenge"
+  },
+  {
+    "id": 8,
+    "name": "Catwoman",
+    "image": "/images/catwoman.png",
+	"clicked": false,
+    "powers": "Diary-writing Princess"
+  },
+  {
+    "id": 9,
+    "name": "Deadpool",
+    "image": "/images/deadpool.png",
+	"clicked": false,
+    "powers": "Indestructible sense of humor"
+  },
+  {
+    "id": 10,
+    "name": "Captain Marvel",
+    "image": "/images/captainmarvel.png",
+	"clicked": false,
+    "powers": "Weird space alien stuff that may or may not give you cancer"
+  },
+  {
+    "id": 11,
+    "name": "Captain Planet",
+    "image": "/images/captainplanet.webp",
+	"clicked": false,
+    "powers": "Earth"
+  },
+  {
+    "id": 12,
+    "name": "Elektra",
+    "image": "/images/elektra.jpg",
+	"clicked": false,
+    "powers": "Apparently not lying to Ricky Gervais"
+  }
+]
